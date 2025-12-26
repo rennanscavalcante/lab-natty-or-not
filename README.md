@@ -26,4 +26,4 @@ No D-ID foi gerado o vídeo com as informações geradas acima.
 A imagem e o video se encontra neste repositório.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+O processo foi bem simples e rápido.
